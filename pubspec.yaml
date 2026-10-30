@@ -1,0 +1,24 @@
+name: libraries_workspace
+description: Libraries.dev Flutter workspace.
+publish_to: "none"
+
+environment:
+  sdk: ^3.13.7
+
+workspace:
+  - apps/libraries_dev
+  - packages/border_beam
+  - packages/bot_avatars
+  - packages/img_fx
+  - packages/liquid_gooey
+  - packages/magnetic_ui
+  - packages/metal_fx
+  - packages/thinking_orbs
+  - packages/voice_glow
+  - packages/ui_kit
+
+
+
+
+
+

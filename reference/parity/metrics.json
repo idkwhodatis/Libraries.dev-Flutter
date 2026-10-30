@@ -1,0 +1,30 @@
+{
+  "web-orbs-1440x900.png": {
+    "size": [
+      1440,
+      900
+    ],
+    "mean_abs_channel": 4.429,
+    "p99_abs_channel": 140.0,
+    "changed_pixels_over_8": 0.0623,
+    "mean_abs_channel_4x_downsample": 4.45,
+    "centroid_delta": [
+      686.81,
+      296.99
+    ]
+  },
+  "web-orbs-390x844.png": {
+    "size": [
+      390,
+      844
+    ],
+    "mean_abs_channel": 8.899,
+    "p99_abs_channel": 200.0,
+    "changed_pixels_over_8": 0.1211,
+    "mean_abs_channel_4x_downsample": 8.946,
+    "centroid_delta": [
+      156.46,
+      269.3
+    ]
+  }
+}

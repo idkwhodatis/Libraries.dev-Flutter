@@ -1,0 +1,2605 @@
+{
+  "summary": {
+    "pairs": 144,
+    "missing": [],
+    "mean_abs_channel": 4.8721,
+    "max_mean_abs_channel": 9.0925,
+    "mean_changed_over_8": 0.05441,
+    "pairs_over_8_mean": 33,
+    "pairs_over_16_mean": 0
+  },
+  "rows": [
+    {
+      "name": "breathing-20-dark-0.6.png",
+      "state": "breathing",
+      "size": 20,
+      "theme": "dark",
+      "t": 0.6,
+      "mean": 7.6819,
+      "p99": 14.01,
+      "changed_over_8": 0.02187,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "breathing-20-dark-1.7.png",
+      "state": "breathing",
+      "size": 20,
+      "theme": "dark",
+      "t": 1.7,
+      "mean": 7.61,
+      "p99": 14.0,
+      "changed_over_8": 0.02,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "breathing-20-dark-3.3.png",
+      "state": "breathing",
+      "size": 20,
+      "theme": "dark",
+      "t": 3.3,
+      "mean": 7.6762,
+      "p99": 15.01,
+      "changed_over_8": 0.025,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "breathing-20-dark-5.1.png",
+      "state": "breathing",
+      "size": 20,
+      "theme": "dark",
+      "t": 5.1,
+      "mean": 7.6837,
+      "p99": 17.0,
+      "changed_over_8": 0.02,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "breathing-20-light-0.6.png",
+      "state": "breathing",
+      "size": 20,
+      "theme": "light",
+      "t": 0.6,
+      "mean": 1.5137,
+      "p99": 36.01,
+      "changed_over_8": 0.05937,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "breathing-20-light-1.7.png",
+      "state": "breathing",
+      "size": 20,
+      "theme": "light",
+      "t": 1.7,
+      "mean": 1.5294,
+      "p99": 34.0,
+      "changed_over_8": 0.05688,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "breathing-20-light-3.3.png",
+      "state": "breathing",
+      "size": 20,
+      "theme": "light",
+      "t": 3.3,
+      "mean": 1.4712,
+      "p99": 35.0,
+      "changed_over_8": 0.05437,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "breathing-20-light-5.1.png",
+      "state": "breathing",
+      "size": 20,
+      "theme": "light",
+      "t": 5.1,
+      "mean": 1.4725,
+      "p99": 34.0,
+      "changed_over_8": 0.05125,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "breathing-64-dark-0.6.png",
+      "state": "breathing",
+      "size": 64,
+      "theme": "dark",
+      "t": 0.6,
+      "mean": 7.6489,
+      "p99": 8.0,
+      "changed_over_8": 0.0072,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "breathing-64-dark-1.7.png",
+      "state": "breathing",
+      "size": 64,
+      "theme": "dark",
+      "t": 1.7,
+      "mean": 7.6389,
+      "p99": 8.0,
+      "changed_over_8": 0.00629,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "breathing-64-dark-3.3.png",
+      "state": "breathing",
+      "size": 64,
+      "theme": "dark",
+      "t": 3.3,
+      "mean": 7.6485,
+      "p99": 8.0,
+      "changed_over_8": 0.00714,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "breathing-64-dark-5.1.png",
+      "state": "breathing",
+      "size": 64,
+      "theme": "dark",
+      "t": 5.1,
+      "mean": 7.6448,
+      "p99": 8.0,
+      "changed_over_8": 0.00653,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "breathing-64-light-0.6.png",
+      "state": "breathing",
+      "size": 64,
+      "theme": "light",
+      "t": 0.6,
+      "mean": 0.7231,
+      "p99": 21.0,
+      "changed_over_8": 0.02997,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "breathing-64-light-1.7.png",
+      "state": "breathing",
+      "size": 64,
+      "theme": "light",
+      "t": 1.7,
+      "mean": 0.691,
+      "p99": 22.0,
+      "changed_over_8": 0.02899,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "breathing-64-light-3.3.png",
+      "state": "breathing",
+      "size": 64,
+      "theme": "light",
+      "t": 3.3,
+      "mean": 0.7203,
+      "p99": 22.49,
+      "changed_over_8": 0.03064,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "breathing-64-light-5.1.png",
+      "state": "breathing",
+      "size": 64,
+      "theme": "light",
+      "t": 5.1,
+      "mean": 0.7073,
+      "p99": 22.0,
+      "changed_over_8": 0.02869,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "composing-20-dark-0.6.png",
+      "state": "composing",
+      "size": 20,
+      "theme": "dark",
+      "t": 0.6,
+      "mean": 7.5381,
+      "p99": 20.01,
+      "changed_over_8": 0.06062,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "composing-20-dark-1.7.png",
+      "state": "composing",
+      "size": 20,
+      "theme": "dark",
+      "t": 1.7,
+      "mean": 7.4825,
+      "p99": 19.01,
+      "changed_over_8": 0.065,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "composing-20-dark-3.3.png",
+      "state": "composing",
+      "size": 20,
+      "theme": "dark",
+      "t": 3.3,
+      "mean": 7.4056,
+      "p99": 20.01,
+      "changed_over_8": 0.06313,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "composing-20-dark-5.1.png",
+      "state": "composing",
+      "size": 20,
+      "theme": "dark",
+      "t": 5.1,
+      "mean": 7.4425,
+      "p99": 21.0,
+      "changed_over_8": 0.06438,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "composing-20-light-0.6.png",
+      "state": "composing",
+      "size": 20,
+      "theme": "light",
+      "t": 0.6,
+      "mean": 3.1488,
+      "p99": 40.01,
+      "changed_over_8": 0.1175,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "composing-20-light-1.7.png",
+      "state": "composing",
+      "size": 20,
+      "theme": "light",
+      "t": 1.7,
+      "mean": 3.1056,
+      "p99": 42.0,
+      "changed_over_8": 0.1225,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "composing-20-light-3.3.png",
+      "state": "composing",
+      "size": 20,
+      "theme": "light",
+      "t": 3.3,
+      "mean": 3.1713,
+      "p99": 43.0,
+      "changed_over_8": 0.12187,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "composing-20-light-5.1.png",
+      "state": "composing",
+      "size": 20,
+      "theme": "light",
+      "t": 5.1,
+      "mean": 3.0181,
+      "p99": 38.01,
+      "changed_over_8": 0.12125,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "composing-64-dark-0.6.png",
+      "state": "composing",
+      "size": 64,
+      "theme": "dark",
+      "t": 0.6,
+      "mean": 7.5414,
+      "p99": 19.0,
+      "changed_over_8": 0.04419,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "composing-64-dark-1.7.png",
+      "state": "composing",
+      "size": 64,
+      "theme": "dark",
+      "t": 1.7,
+      "mean": 7.5134,
+      "p99": 18.0,
+      "changed_over_8": 0.04486,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "composing-64-dark-3.3.png",
+      "state": "composing",
+      "size": 64,
+      "theme": "dark",
+      "t": 3.3,
+      "mean": 7.5309,
+      "p99": 19.0,
+      "changed_over_8": 0.0423,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "composing-64-dark-5.1.png",
+      "state": "composing",
+      "size": 64,
+      "theme": "dark",
+      "t": 5.1,
+      "mean": 7.5234,
+      "p99": 18.0,
+      "changed_over_8": 0.04364,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "composing-64-light-0.6.png",
+      "state": "composing",
+      "size": 64,
+      "theme": "light",
+      "t": 0.6,
+      "mean": 2.1415,
+      "p99": 34.0,
+      "changed_over_8": 0.08514,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "composing-64-light-1.7.png",
+      "state": "composing",
+      "size": 64,
+      "theme": "light",
+      "t": 1.7,
+      "mean": 2.0732,
+      "p99": 33.0,
+      "changed_over_8": 0.08502,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "composing-64-light-3.3.png",
+      "state": "composing",
+      "size": 64,
+      "theme": "light",
+      "t": 3.3,
+      "mean": 2.0863,
+      "p99": 35.0,
+      "changed_over_8": 0.0816,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "composing-64-light-5.1.png",
+      "state": "composing",
+      "size": 64,
+      "theme": "light",
+      "t": 5.1,
+      "mean": 2.0767,
+      "p99": 33.0,
+      "changed_over_8": 0.08472,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "connecting-20-dark-0.6.png",
+      "state": "connecting",
+      "size": 20,
+      "theme": "dark",
+      "t": 0.6,
+      "mean": 7.96,
+      "p99": 16.01,
+      "changed_over_8": 0.01875,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "connecting-20-dark-1.7.png",
+      "state": "connecting",
+      "size": 20,
+      "theme": "dark",
+      "t": 1.7,
+      "mean": 7.8975,
+      "p99": 13.01,
+      "changed_over_8": 0.0225,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "connecting-20-dark-3.3.png",
+      "state": "connecting",
+      "size": 20,
+      "theme": "dark",
+      "t": 3.3,
+      "mean": 8.2381,
+      "p99": 26.0,
+      "changed_over_8": 0.03687,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "connecting-20-dark-5.1.png",
+      "state": "connecting",
+      "size": 20,
+      "theme": "dark",
+      "t": 5.1,
+      "mean": 8.0869,
+      "p99": 22.0,
+      "changed_over_8": 0.02687,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "connecting-20-light-0.6.png",
+      "state": "connecting",
+      "size": 20,
+      "theme": "light",
+      "t": 0.6,
+      "mean": 1.0681,
+      "p99": 34.0,
+      "changed_over_8": 0.03687,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "connecting-20-light-1.7.png",
+      "state": "connecting",
+      "size": 20,
+      "theme": "light",
+      "t": 1.7,
+      "mean": 1.0012,
+      "p99": 33.02,
+      "changed_over_8": 0.03687,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "connecting-20-light-3.3.png",
+      "state": "connecting",
+      "size": 20,
+      "theme": "light",
+      "t": 3.3,
+      "mean": 1.3019,
+      "p99": 37.02,
+      "changed_over_8": 0.04688,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "connecting-20-light-5.1.png",
+      "state": "connecting",
+      "size": 20,
+      "theme": "light",
+      "t": 5.1,
+      "mean": 1.2181,
+      "p99": 36.0,
+      "changed_over_8": 0.04437,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "connecting-64-dark-0.6.png",
+      "state": "connecting",
+      "size": 64,
+      "theme": "dark",
+      "t": 0.6,
+      "mean": 7.9435,
+      "p99": 15.0,
+      "changed_over_8": 0.06476,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "connecting-64-dark-1.7.png",
+      "state": "connecting",
+      "size": 64,
+      "theme": "dark",
+      "t": 1.7,
+      "mean": 8.0178,
+      "p99": 20.0,
+      "changed_over_8": 0.07184,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "connecting-64-dark-3.3.png",
+      "state": "connecting",
+      "size": 64,
+      "theme": "dark",
+      "t": 3.3,
+      "mean": 8.0279,
+      "p99": 20.0,
+      "changed_over_8": 0.07391,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "connecting-64-dark-5.1.png",
+      "state": "connecting",
+      "size": 64,
+      "theme": "dark",
+      "t": 5.1,
+      "mean": 7.9615,
+      "p99": 17.0,
+      "changed_over_8": 0.06427,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "connecting-64-light-0.6.png",
+      "state": "connecting",
+      "size": 64,
+      "theme": "light",
+      "t": 0.6,
+      "mean": 0.8999,
+      "p99": 25.0,
+      "changed_over_8": 0.02545,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "connecting-64-light-1.7.png",
+      "state": "connecting",
+      "size": 64,
+      "theme": "light",
+      "t": 1.7,
+      "mean": 0.9424,
+      "p99": 25.0,
+      "changed_over_8": 0.02625,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "connecting-64-light-3.3.png",
+      "state": "connecting",
+      "size": 64,
+      "theme": "light",
+      "t": 3.3,
+      "mean": 0.9554,
+      "p99": 25.0,
+      "changed_over_8": 0.02747,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "connecting-64-light-5.1.png",
+      "state": "connecting",
+      "size": 64,
+      "theme": "light",
+      "t": 5.1,
+      "mean": 0.9869,
+      "p99": 28.0,
+      "changed_over_8": 0.02661,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "listening-20-dark-0.6.png",
+      "state": "listening",
+      "size": 20,
+      "theme": "dark",
+      "t": 0.6,
+      "mean": 8.1319,
+      "p99": 27.01,
+      "changed_over_8": 0.07812,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "listening-20-dark-1.7.png",
+      "state": "listening",
+      "size": 20,
+      "theme": "dark",
+      "t": 1.7,
+      "mean": 7.98,
+      "p99": 25.01,
+      "changed_over_8": 0.07062,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "listening-20-dark-3.3.png",
+      "state": "listening",
+      "size": 20,
+      "theme": "dark",
+      "t": 3.3,
+      "mean": 8.1381,
+      "p99": 22.0,
+      "changed_over_8": 0.075,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "listening-20-dark-5.1.png",
+      "state": "listening",
+      "size": 20,
+      "theme": "dark",
+      "t": 5.1,
+      "mean": 8.1881,
+      "p99": 31.0,
+      "changed_over_8": 0.0725,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "listening-20-light-0.6.png",
+      "state": "listening",
+      "size": 20,
+      "theme": "light",
+      "t": 0.6,
+      "mean": 3.1219,
+      "p99": 38.0,
+      "changed_over_8": 0.12437,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "listening-20-light-1.7.png",
+      "state": "listening",
+      "size": 20,
+      "theme": "light",
+      "t": 1.7,
+      "mean": 3.0431,
+      "p99": 40.0,
+      "changed_over_8": 0.1225,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "listening-20-light-3.3.png",
+      "state": "listening",
+      "size": 20,
+      "theme": "light",
+      "t": 3.3,
+      "mean": 2.5944,
+      "p99": 36.0,
+      "changed_over_8": 0.10875,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "listening-20-light-5.1.png",
+      "state": "listening",
+      "size": 20,
+      "theme": "light",
+      "t": 5.1,
+      "mean": 3.3438,
+      "p99": 45.0,
+      "changed_over_8": 0.1225,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "listening-64-dark-0.6.png",
+      "state": "listening",
+      "size": 64,
+      "theme": "dark",
+      "t": 0.6,
+      "mean": 7.8853,
+      "p99": 15.0,
+      "changed_over_8": 0.02466,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "listening-64-dark-1.7.png",
+      "state": "listening",
+      "size": 64,
+      "theme": "dark",
+      "t": 1.7,
+      "mean": 8.0049,
+      "p99": 21.49,
+      "changed_over_8": 0.03058,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "listening-64-dark-3.3.png",
+      "state": "listening",
+      "size": 64,
+      "theme": "dark",
+      "t": 3.3,
+      "mean": 7.9079,
+      "p99": 15.0,
+      "changed_over_8": 0.0249,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "listening-64-dark-5.1.png",
+      "state": "listening",
+      "size": 64,
+      "theme": "dark",
+      "t": 5.1,
+      "mean": 7.9227,
+      "p99": 18.0,
+      "changed_over_8": 0.02875,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "listening-64-light-0.6.png",
+      "state": "listening",
+      "size": 64,
+      "theme": "light",
+      "t": 0.6,
+      "mean": 1.0909,
+      "p99": 29.0,
+      "changed_over_8": 0.04565,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "listening-64-light-1.7.png",
+      "state": "listening",
+      "size": 64,
+      "theme": "light",
+      "t": 1.7,
+      "mean": 1.3427,
+      "p99": 36.0,
+      "changed_over_8": 0.05011,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "listening-64-light-3.3.png",
+      "state": "listening",
+      "size": 64,
+      "theme": "light",
+      "t": 3.3,
+      "mean": 1.071,
+      "p99": 29.0,
+      "changed_over_8": 0.04523,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "listening-64-light-5.1.png",
+      "state": "listening",
+      "size": 64,
+      "theme": "light",
+      "t": 5.1,
+      "mean": 1.3495,
+      "p99": 36.0,
+      "changed_over_8": 0.04968,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "searching-20-dark-0.6.png",
+      "state": "searching",
+      "size": 20,
+      "theme": "dark",
+      "t": 0.6,
+      "mean": 7.8187,
+      "p99": 18.0,
+      "changed_over_8": 0.08625,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "searching-20-dark-1.7.png",
+      "state": "searching",
+      "size": 20,
+      "theme": "dark",
+      "t": 1.7,
+      "mean": 7.8738,
+      "p99": 21.01,
+      "changed_over_8": 0.09813,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "searching-20-dark-3.3.png",
+      "state": "searching",
+      "size": 20,
+      "theme": "dark",
+      "t": 3.3,
+      "mean": 7.7956,
+      "p99": 19.0,
+      "changed_over_8": 0.08188,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "searching-20-dark-5.1.png",
+      "state": "searching",
+      "size": 20,
+      "theme": "dark",
+      "t": 5.1,
+      "mean": 7.8119,
+      "p99": 18.0,
+      "changed_over_8": 0.0775,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "searching-20-light-0.6.png",
+      "state": "searching",
+      "size": 20,
+      "theme": "light",
+      "t": 0.6,
+      "mean": 2.2088,
+      "p99": 23.01,
+      "changed_over_8": 0.11375,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "searching-20-light-1.7.png",
+      "state": "searching",
+      "size": 20,
+      "theme": "light",
+      "t": 1.7,
+      "mean": 2.9087,
+      "p99": 36.01,
+      "changed_over_8": 0.12437,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "searching-20-light-3.3.png",
+      "state": "searching",
+      "size": 20,
+      "theme": "light",
+      "t": 3.3,
+      "mean": 2.19,
+      "p99": 23.0,
+      "changed_over_8": 0.11563,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "searching-20-light-5.1.png",
+      "state": "searching",
+      "size": 20,
+      "theme": "light",
+      "t": 5.1,
+      "mean": 2.0125,
+      "p99": 21.0,
+      "changed_over_8": 0.10625,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "searching-64-dark-0.6.png",
+      "state": "searching",
+      "size": 64,
+      "theme": "dark",
+      "t": 0.6,
+      "mean": 7.915,
+      "p99": 19.0,
+      "changed_over_8": 0.0437,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "searching-64-dark-1.7.png",
+      "state": "searching",
+      "size": 64,
+      "theme": "dark",
+      "t": 1.7,
+      "mean": 8.0019,
+      "p99": 23.0,
+      "changed_over_8": 0.04254,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "searching-64-dark-3.3.png",
+      "state": "searching",
+      "size": 64,
+      "theme": "dark",
+      "t": 3.3,
+      "mean": 8.0138,
+      "p99": 24.0,
+      "changed_over_8": 0.04614,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "searching-64-dark-5.1.png",
+      "state": "searching",
+      "size": 64,
+      "theme": "dark",
+      "t": 5.1,
+      "mean": 7.8438,
+      "p99": 16.0,
+      "changed_over_8": 0.03644,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "searching-64-light-0.6.png",
+      "state": "searching",
+      "size": 64,
+      "theme": "light",
+      "t": 0.6,
+      "mean": 1.1146,
+      "p99": 21.0,
+      "changed_over_8": 0.05646,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "searching-64-light-1.7.png",
+      "state": "searching",
+      "size": 64,
+      "theme": "light",
+      "t": 1.7,
+      "mean": 1.1746,
+      "p99": 23.0,
+      "changed_over_8": 0.05524,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "searching-64-light-3.3.png",
+      "state": "searching",
+      "size": 64,
+      "theme": "light",
+      "t": 3.3,
+      "mean": 1.2598,
+      "p99": 25.0,
+      "changed_over_8": 0.05896,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "searching-64-light-5.1.png",
+      "state": "searching",
+      "size": 64,
+      "theme": "light",
+      "t": 5.1,
+      "mean": 1.0274,
+      "p99": 19.0,
+      "changed_over_8": 0.05402,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "shaping-20-dark-0.6.png",
+      "state": "shaping",
+      "size": 20,
+      "theme": "dark",
+      "t": 0.6,
+      "mean": 9.0925,
+      "p99": 35.0,
+      "changed_over_8": 0.10063,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "shaping-20-dark-1.7.png",
+      "state": "shaping",
+      "size": 20,
+      "theme": "dark",
+      "t": 1.7,
+      "mean": 8.8513,
+      "p99": 35.0,
+      "changed_over_8": 0.095,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "shaping-20-dark-3.3.png",
+      "state": "shaping",
+      "size": 20,
+      "theme": "dark",
+      "t": 3.3,
+      "mean": 8.9531,
+      "p99": 35.0,
+      "changed_over_8": 0.09312,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "shaping-20-dark-5.1.png",
+      "state": "shaping",
+      "size": 20,
+      "theme": "dark",
+      "t": 5.1,
+      "mean": 9.0519,
+      "p99": 36.0,
+      "changed_over_8": 0.09938,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "shaping-20-light-0.6.png",
+      "state": "shaping",
+      "size": 20,
+      "theme": "light",
+      "t": 0.6,
+      "mean": 4.5419,
+      "p99": 55.01,
+      "changed_over_8": 0.1125,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "shaping-20-light-1.7.png",
+      "state": "shaping",
+      "size": 20,
+      "theme": "light",
+      "t": 1.7,
+      "mean": 4.5687,
+      "p99": 58.0,
+      "changed_over_8": 0.1225,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "shaping-20-light-3.3.png",
+      "state": "shaping",
+      "size": 20,
+      "theme": "light",
+      "t": 3.3,
+      "mean": 4.4631,
+      "p99": 54.01,
+      "changed_over_8": 0.11375,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "shaping-20-light-5.1.png",
+      "state": "shaping",
+      "size": 20,
+      "theme": "light",
+      "t": 5.1,
+      "mean": 4.6344,
+      "p99": 57.0,
+      "changed_over_8": 0.11812,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "shaping-64-dark-0.6.png",
+      "state": "shaping",
+      "size": 64,
+      "theme": "dark",
+      "t": 0.6,
+      "mean": 8.2927,
+      "p99": 28.0,
+      "changed_over_8": 0.01843,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "shaping-64-dark-1.7.png",
+      "state": "shaping",
+      "size": 64,
+      "theme": "dark",
+      "t": 1.7,
+      "mean": 8.3173,
+      "p99": 29.49,
+      "changed_over_8": 0.0191,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "shaping-64-dark-3.3.png",
+      "state": "shaping",
+      "size": 64,
+      "theme": "dark",
+      "t": 3.3,
+      "mean": 8.3245,
+      "p99": 30.0,
+      "changed_over_8": 0.01917,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "shaping-64-dark-5.1.png",
+      "state": "shaping",
+      "size": 64,
+      "theme": "dark",
+      "t": 5.1,
+      "mean": 8.2592,
+      "p99": 27.0,
+      "changed_over_8": 0.01733,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "shaping-64-light-0.6.png",
+      "state": "shaping",
+      "size": 64,
+      "theme": "light",
+      "t": 0.6,
+      "mean": 0.6625,
+      "p99": 34.0,
+      "changed_over_8": 0.0199,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "shaping-64-light-1.7.png",
+      "state": "shaping",
+      "size": 64,
+      "theme": "light",
+      "t": 1.7,
+      "mean": 0.6289,
+      "p99": 32.0,
+      "changed_over_8": 0.0188,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "shaping-64-light-3.3.png",
+      "state": "shaping",
+      "size": 64,
+      "theme": "light",
+      "t": 3.3,
+      "mean": 0.6785,
+      "p99": 36.0,
+      "changed_over_8": 0.01917,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "shaping-64-light-5.1.png",
+      "state": "shaping",
+      "size": 64,
+      "theme": "light",
+      "t": 5.1,
+      "mean": 0.6369,
+      "p99": 33.0,
+      "changed_over_8": 0.01904,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "solving-20-dark-0.6.png",
+      "state": "solving",
+      "size": 20,
+      "theme": "dark",
+      "t": 0.6,
+      "mean": 8.0256,
+      "p99": 24.01,
+      "changed_over_8": 0.06125,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "solving-20-dark-1.7.png",
+      "state": "solving",
+      "size": 20,
+      "theme": "dark",
+      "t": 1.7,
+      "mean": 8.0781,
+      "p99": 26.01,
+      "changed_over_8": 0.0625,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "solving-20-dark-3.3.png",
+      "state": "solving",
+      "size": 20,
+      "theme": "dark",
+      "t": 3.3,
+      "mean": 8.38,
+      "p99": 33.0,
+      "changed_over_8": 0.07875,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "solving-20-dark-5.1.png",
+      "state": "solving",
+      "size": 20,
+      "theme": "dark",
+      "t": 5.1,
+      "mean": 8.2713,
+      "p99": 30.0,
+      "changed_over_8": 0.0675,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "solving-20-light-0.6.png",
+      "state": "solving",
+      "size": 20,
+      "theme": "light",
+      "t": 0.6,
+      "mean": 2.7113,
+      "p99": 44.01,
+      "changed_over_8": 0.09563,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "solving-20-light-1.7.png",
+      "state": "solving",
+      "size": 20,
+      "theme": "light",
+      "t": 1.7,
+      "mean": 3.2431,
+      "p99": 45.01,
+      "changed_over_8": 0.11438,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "solving-20-light-3.3.png",
+      "state": "solving",
+      "size": 20,
+      "theme": "light",
+      "t": 3.3,
+      "mean": 3.8338,
+      "p99": 57.01,
+      "changed_over_8": 0.12062,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "solving-20-light-5.1.png",
+      "state": "solving",
+      "size": 20,
+      "theme": "light",
+      "t": 5.1,
+      "mean": 3.0644,
+      "p99": 50.01,
+      "changed_over_8": 0.095,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "solving-64-dark-0.6.png",
+      "state": "solving",
+      "size": 64,
+      "theme": "dark",
+      "t": 0.6,
+      "mean": 8.0435,
+      "p99": 22.0,
+      "changed_over_8": 0.03424,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "solving-64-dark-1.7.png",
+      "state": "solving",
+      "size": 64,
+      "theme": "dark",
+      "t": 1.7,
+      "mean": 8.0037,
+      "p99": 20.0,
+      "changed_over_8": 0.03339,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "solving-64-dark-3.3.png",
+      "state": "solving",
+      "size": 64,
+      "theme": "dark",
+      "t": 3.3,
+      "mean": 8.1637,
+      "p99": 26.0,
+      "changed_over_8": 0.03516,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "solving-64-dark-5.1.png",
+      "state": "solving",
+      "size": 64,
+      "theme": "dark",
+      "t": 5.1,
+      "mean": 7.9793,
+      "p99": 20.0,
+      "changed_over_8": 0.03058,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "solving-64-light-0.6.png",
+      "state": "solving",
+      "size": 64,
+      "theme": "light",
+      "t": 0.6,
+      "mean": 1.6028,
+      "p99": 40.0,
+      "changed_over_8": 0.05658,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "solving-64-light-1.7.png",
+      "state": "solving",
+      "size": 64,
+      "theme": "light",
+      "t": 1.7,
+      "mean": 1.5099,
+      "p99": 38.0,
+      "changed_over_8": 0.05432,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "solving-64-light-3.3.png",
+      "state": "solving",
+      "size": 64,
+      "theme": "light",
+      "t": 3.3,
+      "mean": 1.6042,
+      "p99": 43.0,
+      "changed_over_8": 0.05316,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "solving-64-light-5.1.png",
+      "state": "solving",
+      "size": 64,
+      "theme": "light",
+      "t": 5.1,
+      "mean": 1.4487,
+      "p99": 39.0,
+      "changed_over_8": 0.05292,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "weaving-20-dark-0.6.png",
+      "state": "weaving",
+      "size": 20,
+      "theme": "dark",
+      "t": 0.6,
+      "mean": 7.9363,
+      "p99": 16.01,
+      "changed_over_8": 0.03562,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "weaving-20-dark-1.7.png",
+      "state": "weaving",
+      "size": 20,
+      "theme": "dark",
+      "t": 1.7,
+      "mean": 7.9631,
+      "p99": 21.0,
+      "changed_over_8": 0.03938,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "weaving-20-dark-3.3.png",
+      "state": "weaving",
+      "size": 20,
+      "theme": "dark",
+      "t": 3.3,
+      "mean": 8.0156,
+      "p99": 20.01,
+      "changed_over_8": 0.0375,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "weaving-20-dark-5.1.png",
+      "state": "weaving",
+      "size": 20,
+      "theme": "dark",
+      "t": 5.1,
+      "mean": 7.9319,
+      "p99": 21.01,
+      "changed_over_8": 0.0325,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "weaving-20-light-0.6.png",
+      "state": "weaving",
+      "size": 20,
+      "theme": "light",
+      "t": 0.6,
+      "mean": 1.3388,
+      "p99": 31.01,
+      "changed_over_8": 0.0525,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "weaving-20-light-1.7.png",
+      "state": "weaving",
+      "size": 20,
+      "theme": "light",
+      "t": 1.7,
+      "mean": 1.3456,
+      "p99": 35.01,
+      "changed_over_8": 0.0525,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "weaving-20-light-3.3.png",
+      "state": "weaving",
+      "size": 20,
+      "theme": "light",
+      "t": 3.3,
+      "mean": 1.4106,
+      "p99": 36.01,
+      "changed_over_8": 0.055,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "weaving-20-light-5.1.png",
+      "state": "weaving",
+      "size": 20,
+      "theme": "light",
+      "t": 5.1,
+      "mean": 1.3756,
+      "p99": 38.0,
+      "changed_over_8": 0.0525,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "weaving-64-dark-0.6.png",
+      "state": "weaving",
+      "size": 64,
+      "theme": "dark",
+      "t": 0.6,
+      "mean": 8.0131,
+      "p99": 21.49,
+      "changed_over_8": 0.02502,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "weaving-64-dark-1.7.png",
+      "state": "weaving",
+      "size": 64,
+      "theme": "dark",
+      "t": 1.7,
+      "mean": 8.0167,
+      "p99": 21.0,
+      "changed_over_8": 0.02417,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "weaving-64-dark-3.3.png",
+      "state": "weaving",
+      "size": 64,
+      "theme": "dark",
+      "t": 3.3,
+      "mean": 8.0275,
+      "p99": 23.0,
+      "changed_over_8": 0.02325,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "weaving-64-dark-5.1.png",
+      "state": "weaving",
+      "size": 64,
+      "theme": "dark",
+      "t": 5.1,
+      "mean": 7.9994,
+      "p99": 22.0,
+      "changed_over_8": 0.02289,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "weaving-64-light-0.6.png",
+      "state": "weaving",
+      "size": 64,
+      "theme": "light",
+      "t": 0.6,
+      "mean": 0.781,
+      "p99": 25.0,
+      "changed_over_8": 0.03278,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "weaving-64-light-1.7.png",
+      "state": "weaving",
+      "size": 64,
+      "theme": "light",
+      "t": 1.7,
+      "mean": 0.7834,
+      "p99": 25.0,
+      "changed_over_8": 0.03229,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "weaving-64-light-3.3.png",
+      "state": "weaving",
+      "size": 64,
+      "theme": "light",
+      "t": 3.3,
+      "mean": 0.8159,
+      "p99": 26.0,
+      "changed_over_8": 0.03339,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "weaving-64-light-5.1.png",
+      "state": "weaving",
+      "size": 64,
+      "theme": "light",
+      "t": 5.1,
+      "mean": 0.7747,
+      "p99": 25.0,
+      "changed_over_8": 0.03357,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "working-20-dark-0.6.png",
+      "state": "working",
+      "size": 20,
+      "theme": "dark",
+      "t": 0.6,
+      "mean": 8.1306,
+      "p99": 31.0,
+      "changed_over_8": 0.04437,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "working-20-dark-1.7.png",
+      "state": "working",
+      "size": 20,
+      "theme": "dark",
+      "t": 1.7,
+      "mean": 8.1656,
+      "p99": 32.01,
+      "changed_over_8": 0.04875,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "working-20-dark-3.3.png",
+      "state": "working",
+      "size": 20,
+      "theme": "dark",
+      "t": 3.3,
+      "mean": 8.3369,
+      "p99": 33.0,
+      "changed_over_8": 0.05563,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "working-20-dark-5.1.png",
+      "state": "working",
+      "size": 20,
+      "theme": "dark",
+      "t": 5.1,
+      "mean": 8.1263,
+      "p99": 34.0,
+      "changed_over_8": 0.04375,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "working-20-light-0.6.png",
+      "state": "working",
+      "size": 20,
+      "theme": "light",
+      "t": 0.6,
+      "mean": 1.6362,
+      "p99": 36.01,
+      "changed_over_8": 0.05563,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "working-20-light-1.7.png",
+      "state": "working",
+      "size": 20,
+      "theme": "light",
+      "t": 1.7,
+      "mean": 1.5613,
+      "p99": 37.0,
+      "changed_over_8": 0.05563,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "working-20-light-3.3.png",
+      "state": "working",
+      "size": 20,
+      "theme": "light",
+      "t": 3.3,
+      "mean": 1.7212,
+      "p99": 37.0,
+      "changed_over_8": 0.0575,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "working-20-light-5.1.png",
+      "state": "working",
+      "size": 20,
+      "theme": "light",
+      "t": 5.1,
+      "mean": 1.6925,
+      "p99": 39.01,
+      "changed_over_8": 0.05125,
+      "web_size": [
+        40,
+        40
+      ],
+      "flutter_size": [
+        40,
+        40
+      ]
+    },
+    {
+      "name": "working-64-dark-0.6.png",
+      "state": "working",
+      "size": 64,
+      "theme": "dark",
+      "t": 0.6,
+      "mean": 7.7605,
+      "p99": 14.0,
+      "changed_over_8": 0.01758,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "working-64-dark-1.7.png",
+      "state": "working",
+      "size": 64,
+      "theme": "dark",
+      "t": 1.7,
+      "mean": 7.7814,
+      "p99": 14.0,
+      "changed_over_8": 0.01788,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "working-64-dark-3.3.png",
+      "state": "working",
+      "size": 64,
+      "theme": "dark",
+      "t": 3.3,
+      "mean": 7.7605,
+      "p99": 14.0,
+      "changed_over_8": 0.01752,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "working-64-dark-5.1.png",
+      "state": "working",
+      "size": 64,
+      "theme": "dark",
+      "t": 5.1,
+      "mean": 7.8193,
+      "p99": 16.49,
+      "changed_over_8": 0.01978,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "working-64-light-0.6.png",
+      "state": "working",
+      "size": 64,
+      "theme": "light",
+      "t": 0.6,
+      "mean": 0.7886,
+      "p99": 26.0,
+      "changed_over_8": 0.0213,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "working-64-light-1.7.png",
+      "state": "working",
+      "size": 64,
+      "theme": "light",
+      "t": 1.7,
+      "mean": 0.7529,
+      "p99": 26.49,
+      "changed_over_8": 0.02124,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "working-64-light-3.3.png",
+      "state": "working",
+      "size": 64,
+      "theme": "light",
+      "t": 3.3,
+      "mean": 0.8359,
+      "p99": 30.0,
+      "changed_over_8": 0.02295,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "working-64-light-5.1.png",
+      "state": "working",
+      "size": 64,
+      "theme": "light",
+      "t": 5.1,
+      "mean": 0.8082,
+      "p99": 27.49,
+      "changed_over_8": 0.02368,
+      "web_size": [
+        128,
+        128
+      ],
+      "flutter_size": [
+        128,
+        128
+      ]
+    }
+  ]
+}

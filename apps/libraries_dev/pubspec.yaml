@@ -1,0 +1,111 @@
+name: libraries_dev
+description: Libraries.dev Flutter application.
+publish_to: "none"
+version: 0.1.0+1
+
+resolution: workspace
+
+environment:
+  sdk: ^3.13.7
+
+dependencies:
+  flutter:
+    sdk: flutter
+  border_beam:
+    path: ../../packages/border_beam
+  bot_avatars:
+    path: ../../packages/bot_avatars
+  flutter_layout_grid: ^2.0.8
+  flutter_riverpod: ^3.4.3
+  flutter_svg: ^2.3.0
+  go_router: ^18.1.1
+  http: ^1.6.0
+  img_fx:
+    path: ../../packages/img_fx
+  liquid_gooey:
+    path: ../../packages/liquid_gooey
+  magnetic_ui:
+    path: ../../packages/magnetic_ui
+  media_kit: ^1.2.6
+  metal_fx:
+    path: ../../packages/metal_fx
+  media_kit_libs_video: ^1.0.7
+  media_kit_video: ^2.0.1
+  shared_preferences: ^2.5.6
+  thinking_orbs:
+    path: ../../packages/thinking_orbs
+  ui_kit:
+    path: ../../packages/ui_kit
+  url_launcher: ^6.3.3
+  voice_glow:
+    path: ../../packages/voice_glow
+  visibility_detector: ^0.4.0+2
+  path_provider: ^2.1.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/site/avatars/
+    - assets/site/customers/
+    - assets/site/icons/
+    - assets/site/images/
+    - assets/site/previews/
+    - assets/site/shots/
+    - assets/site/videos/
+    - assets/site/videos/posters/
+    - assets/site/favicon.svg
+    - assets/site/logo-1.svg
+    - assets/site/logo-2.svg
+    - assets/site/logo-3.svg
+    - assets/site/og-image.jpg
+    - assets/site/og-image-skill.jpg
+
+  fonts:
+    - family: Inter
+      fonts:
+        - asset: assets/fonts/Inter-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Inter-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Inter-SemiBold.ttf
+          weight: 600
+    - family: RobotoMono
+      fonts:
+        - asset: assets/fonts/RobotoMono-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/RobotoMono-Medium.ttf
+          weight: 500
+
+
+
+
+
+
+
+
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/app_icon.png"
+  min_sdk_android: 21
+  adaptive_icon_background: "#121212"
+  adaptive_icon_foreground: "assets/icon/app_icon.png"
+  remove_alpha_ios: true
+  macos:
+    generate: true
+    image_path: "assets/icon/app_icon.png"
+  windows:
+    generate: true
+    image_path: "assets/icon/app_icon.png"
+    icon_size: 256
+
