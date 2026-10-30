@@ -1,73 +1,37 @@
-# Dependencies
-node_modules/
-
-# Build output
-dist/
-
-# IDE
+# Dart and Flutter
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+*.iml
 .idea/
 .vscode/
+
+# Generated Flutter platform artifacts
+apps/libraries_dev/android/.gradle/
+apps/libraries_dev/android/local.properties
+apps/libraries_dev/ios/Flutter/ephemeral/
+apps/libraries_dev/ios/Pods/
+apps/libraries_dev/macos/Flutter/ephemeral/
+apps/libraries_dev/macos/Pods/
+apps/libraries_dev/windows/flutter/ephemeral/
+apps/libraries_dev/linux/flutter/ephemeral/
+apps/libraries_dev/build/
+
+# Test and coverage output
+coverage/
+test/failures/
+**/failures/
+
+# Logs and local files
+*.log
+.DS_Store
+Thumbs.db
 *.swp
 *.swo
 
-# OS
-.DS_Store
-Thumbs.db
-
-# Logs
-*.log
-npm-debug.log*
-
-# Test coverage
-coverage/
-
-# Cache
-.cache/
-.parcel-cache/
-.turbo/
-AI seach.html
-.npmrc
-
-# Generated parity snapshots (regenerate with packages/border-beam/ports/ios/BorderBeamKit/snapshot.sh)
-packages/border-beam/ports/ios/BorderBeamKit/snapshots/
-packages/border-beam/ports/ios/BorderBeamKit/.build/
-packages/border-beam/ports/react-native/border-beam-native/lib/
-packages/border-beam/ports/ios/BorderBeamDemo/BorderBeamDemo.xcodeproj/
-packages/border-beam/ports/ios/BorderBeamDemo/build/
-packages/border-beam/ports/react-native/example/node_modules/
-packages/border-beam/ports/react-native/example/ios/
-packages/border-beam/ports/react-native/example/android/
-packages/border-beam/ports/react-native/example/.expo/
-sites/beam/parity-web/
-sites/beam/parity-diff/
-packages/border-beam/ports/ios/BorderBeamShowcase/build/
-packages/border-beam/ports/ios/BorderBeamShowcase/BorderBeamShowcase.xcodeproj/
-# voice-glow iOS port: build output and the generated demo project
-packages/voice-glow/ports/ios/VoiceGlowKit/.build/
-packages/voice-glow/ports/ios/VoiceGlowDemo/VoiceGlowDemo.xcodeproj/
-packages/voice-glow/ports/ios/VoiceGlowDemo/build/
-
-# Local Worker secrets (never commit)
-.dev.vars
-
-# Wrangler local dev state
-.wrangler/
-
-# Fundraising material: kept out of the public repo.
-docs/vc-pitch.md
-
-# Compiled by scripts/posters/build.sh on demand; macOS-only.
-sites/home/scripts/posters/extract
-
-# Unreleased work kept out of the public repo (a library and its site
-# pages); the local build picks it up when present.
-private/
-sites/home/vite.local.mjs
-
-# Root Package.swift (the SwiftUI ports from GitHub): SwiftPM / Xcode output
-/.build/
-/.swiftpm/
-
-# Model weights are licensed separately (LICENSE-MODEL.md) and live in the
-# private libraries-pro repo. Never commit them here.
-*.mfxl
+# Local reference worktree and captures
+reference/captures/
+reference/web-baseline/

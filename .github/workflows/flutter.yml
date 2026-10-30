@@ -1,0 +1,112 @@
+name: Flutter
+
+on:
+  push:
+    branches: [main, flutter-port]
+  pull_request:
+
+env:
+  FLUTTER_VERSION: "3.47.8"
+
+jobs:
+  analyze-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: subosito/flutter-action@v2
+        with:
+          flutter-version: ${{ env.FLUTTER_VERSION }}
+          channel: stable
+          cache: true
+      - run: flutter pub get
+      - run: dart run tool/gen_orb_spec.dart --check
+      - run: flutter analyze
+      - run: flutter test packages/thinking_orbs/test
+      - run: flutter test packages/border_beam/test
+      - run: flutter test packages/bot_avatars/test
+      - run: flutter test packages/metal_fx/test
+      - run: flutter test packages/voice_glow/test
+      - run: flutter test packages/img_fx/test
+      - run: flutter test packages/liquid_gooey/test
+      - run: flutter test packages/magnetic_ui/test
+      - working-directory: apps/libraries_dev
+        run: flutter test
+
+  windows:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: subosito/flutter-action@v2
+        with:
+          flutter-version: ${{ env.FLUTTER_VERSION }}
+          channel: stable
+          cache: true
+      - run: flutter pub get
+      - working-directory: apps/libraries_dev
+        run: flutter build windows --debug
+
+  linux:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get update && sudo apt-get install -y ninja-build libgtk-3-dev libmpv-dev
+      - uses: subosito/flutter-action@v2
+        with:
+          flutter-version: ${{ env.FLUTTER_VERSION }}
+          channel: stable
+          cache: true
+      - run: flutter pub get
+      - working-directory: apps/libraries_dev
+        run: flutter build linux --debug
+
+  macos:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: subosito/flutter-action@v2
+        with:
+          flutter-version: ${{ env.FLUTTER_VERSION }}
+          channel: stable
+          cache: true
+      - run: flutter pub get
+      - working-directory: apps/libraries_dev
+        run: flutter build macos --debug
+      - working-directory: apps/libraries_dev
+        run: flutter build ios --no-codesign --debug
+
+  android:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+      - uses: subosito/flutter-action@v2
+        with:
+          flutter-version: ${{ env.FLUTTER_VERSION }}
+          channel: stable
+          cache: true
+      - run: flutter pub get
+      - working-directory: apps/libraries_dev
+        run: flutter build apk --debug
+
+
+
+
+
+
+
+  parity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow numpy
+      - run: python tool/compare_parity.py
+      - run: python tool/compare_carousel.py
+
+
+
